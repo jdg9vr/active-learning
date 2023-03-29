@@ -1,5 +1,5 @@
 # active-learning
-A Report and Tutorial on Active Learning, a Machine Learning Tool
+Report and Tutorial on Active Learning, a Machine Learning Tool
 
 Created by Josh Gen, Connor Nickol, and Matt Manner
 
